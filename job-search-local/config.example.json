@@ -1,0 +1,36 @@
+{
+  "feeds": [],
+  "database": "jobs.sqlite3",
+  "output_csv": "salida/ofertas.csv",
+  "filters": {
+    "remote_terms": ["remote", "remoto", "fully remote", "work from anywhere", "trabajo remoto", "home office"],
+    "peru_terms": ["peru", "perú", "latam", "latin america", "south america"],
+    "exclude_terms": ["commission only", "unpaid", "sin remuneración", "solo comisiones", "on-site only", "presencial obligatorio"]
+  },
+  "tracks": [
+    {
+      "name": "Automatización y Operaciones",
+      "title_terms": ["automation specialist", "automation engineer", "workflow automation", "ai automation", "integration specialist", "systems specialist", "automation analyst", "operations automation", "especialista de automatización", "automatización de procesos"],
+      "skill_terms": ["python", "n8n", "make.com", "make com", "zapier", "rest api", "webhook", "etl", "google apps script", "data extraction", "scraping", "workflow", "integrations", "integraciones"],
+      "avoid_terms": ["senior software engineer", "principal engineer", "10+ years"]
+    },
+    {
+      "name": "Soporte Linux e IT",
+      "title_terms": ["it support", "technical support", "support engineer", "linux administrator", "system administrator", "it specialist", "help desk level 2", "l2 support", "l3 support", "soporte técnico", "administrador linux"],
+      "skill_terms": ["linux", "systemd", "bash", "ssh", "tailscale", "network diagnostics", "troubleshooting", "root cause", "windows", "macos", "technical support", "soporte técnico"],
+      "avoid_terms": ["field technician", "onsite technician", "presencial obligatorio"]
+    },
+    {
+      "name": "Formación técnica",
+      "title_terms": ["technical trainer", "automation tutor", "technical instructor", "technology educator", "customer education", "learning facilitator", "technical training", "tutor de automatización", "formador técnico"],
+      "skill_terms": ["training", "teaching", "mentoring", "curriculum", "technical education", "make.com", "n8n", "zapier", "english", "spanish", "troubleshooting", "formación técnica"],
+      "avoid_terms": ["unpaid", "volunteer only", "solo voluntariado"]
+    },
+    {
+      "name": "RevOps y Operaciones de datos",
+      "title_terms": ["revenue operations", "revops analyst", "sales operations analyst", "operations analyst", "business operations analyst", "data operations", "analista de operaciones", "operaciones de ingresos"],
+      "skill_terms": ["google sheets", "data validation", "data quality", "lead generation", "email automation", "crm", "process improvement", "scraping", "data pipelines", "reporting", "operaciones", "automatización"],
+      "avoid_terms": ["quota carrying", "commission only", "field sales"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+config.json
+jobs.sqlite3
+salida/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
