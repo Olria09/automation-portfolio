@@ -1,0 +1,1 @@
+Factura INV-2024-0005, emitida el 01/02/2024 a Contoso Research S.L. (España). Base: 100,00 EUR. IVA: 21%. Cuota: 21,00 EUR. Total: 121,00 EUR. NIF no incluido en este ejemplo.

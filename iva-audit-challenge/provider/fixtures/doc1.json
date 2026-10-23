@@ -1,0 +1,12 @@
+{
+  "invoice_id": "INV-2024-0005",
+  "issue_date": "2024-02-01",
+  "customer_raw": "Contoso Research S.L.",
+  "customer_country": "ES",
+  "customer_vat": null,
+  "taxable_base": 100.0,
+  "vat_rate": 21.0,
+  "vat_amount": 21.0,
+  "total_amount": 121.0,
+  "currency": "EUR"
+}

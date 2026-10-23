@@ -1,0 +1,1 @@
+Factura INV-2024-0006 del 12/02/2024 para Example Parts GmbH, Alemania. VAT de ejemplo: DE123456789. Base: 500,00 EUR. IVA aplicado: 21%. Cuota: 105,00 EUR. Total: 605,00 EUR.

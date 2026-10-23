@@ -1,0 +1,12 @@
+{
+  "invoice_id": "INV-2024-0007",
+  "issue_date": "2024-02-20",
+  "customer_raw": "Fabrikam Data B.V.",
+  "customer_country": "NL",
+  "customer_vat": "NL123456757B01",
+  "taxable_base": 250.0,
+  "vat_rate": 0.0,
+  "vat_amount": 0.0,
+  "total_amount": 250.0,
+  "currency": "EUR"
+}

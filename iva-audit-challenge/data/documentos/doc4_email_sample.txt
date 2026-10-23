@@ -1,0 +1,1 @@
+Factura INV-2024-0008 del 28/02/2024 para Sample Studio. Base: 300,00 EUR. IVA: 21%. Cuota: 63,00 EUR. Total: 363,00 EUR. País y VAT del cliente no indicados en este ejemplo.

@@ -1,0 +1,12 @@
+{
+  "invoice_id": "INV-2024-0008",
+  "issue_date": "2024-02-28",
+  "customer_raw": "Sample Studio",
+  "customer_country": null,
+  "customer_vat": null,
+  "taxable_base": 300.0,
+  "vat_rate": 21.0,
+  "vat_amount": 63.0,
+  "total_amount": 363.0,
+  "currency": "EUR"
+}
